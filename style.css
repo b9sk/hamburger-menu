@@ -68,7 +68,13 @@
 /*
  More to come here...
 */
-
+.goto-top-preventer {
+    position: fixed;
+    width: 1px;
+    height: 1px;
+    left: 0;
+    top: 0;
+}
 
 /*
  Demo purposes only
